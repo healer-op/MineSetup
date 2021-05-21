@@ -2,9 +2,9 @@
 <br />
 🌴How To Setup <br />
 <br />
-Windows: <br />
+![Windows](https://playit.gg/static/media/windows.a0718ca2.png) Windows: <br />
 <br />
-```1. Download Latest Package From : https://github.com/healer-op/MineSetup/releases <br />
+1. Download Latest Package From : https://github.com/healer-op/MineSetup/releases <br />
 2. Extract To Desktop <br />
 3. Click START XGB RAM .bat file <br />
 4. Wait till the console (black screen with text) loads everything. <br />
@@ -18,9 +18,9 @@ Windows: <br />
 12. Minimise all <br />
 13. Open Minecraft , Go To Multiplayer , Direct Connect paster the ip and Connect <br />
 14. You can Give the ip to you friend and play. <br />
-15. Start The Repo For Faster Updates. <br />```
+15. Start The Repo For Faster Updates. <br />
 <br />
-Linux: </br >
+![Windows](https://playit.gg/static/media/linux.cde544b2.png) Linux: </br >
 <br />
 1. Soon <br>
 <br />
@@ -28,9 +28,16 @@ Mac: </br >
 </br >
 1. Soon
 </br >
-Download Now : https://github.com/healer-op/MineSetup/releases <br />
-Guides : https://github.com/healer-op/MineBasic <br />
+🔗Download Now : https://github.com/healer-op/MineSetup/releases <br />
 <br />
 <br />
-Server.jar : https://yatopiamc.org/download.html <br />
-Online Service : https://playit.gg/download <br />
+🔗Server.jar : https://yatopiamc.org/download.html <br />
+🔗Online Service : https://playit.gg/download <br />
+<br />
+📝To Do List<br />
+- [x] Yatopiamc api Added
+- [x] Skin Restorer Added
+- [x] EssentialX For Tp Tpa
+- [x] Video Tutorials
+- [ ] Linux Update
+- [ ] Mac Update
