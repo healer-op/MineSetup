@@ -42,7 +42,8 @@ How To Change World
 
 [![WorldVideo](https://img.youtube.com/vi/oUp84ZIKB6I/0.jpg)](https://www.youtube.com/watch?v=oUp84ZIKB6I)
 
-🔗Download Now : https://github.com/healer-op/MineSetup/releases <br />
+🔗Download(Windows) : https://github.com/healer-op/MineSetup/releases <br />
+🔗Download(Mac) : https://github.com/healer-op/MineSetup/releases <br />
 🔗Server.jar : https://yatopiamc.org/download.html <br />
 🔗Online Service : https://playit.gg/download <br />
 <br />
