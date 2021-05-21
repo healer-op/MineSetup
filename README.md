@@ -1,7 +1,6 @@
 # MineSetup
 <br />
 🌴How To Setup <br />
-<br />
 Windows: <br />
 <br />
 1. Download Latest Package From : https://github.com/healer-op/MineSetup/releases <br />
@@ -28,8 +27,9 @@ Mac: </br >
 </br >
 1. Soon
 </br >
+
 # Video Guides
-<br />
+
 How To Setup
 <br />
 
