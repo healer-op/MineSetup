@@ -1,7 +1,7 @@
 # MineSetup
 <br />
 🌴How To Setup <br />
-Windows: <br />
+![Windows](https://playit.gg/static/media/windows.a0718ca2.png) Windows: <br />
 <br />
 1. Download Latest Package From : https://github.com/healer-op/MineSetup/releases <br />
 2. Extract To Desktop <br />
