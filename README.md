@@ -28,16 +28,23 @@ Mac: </br >
 </br >
 1. Soon
 </br >
+# Video Guides
+<br />
+How To Setup
+<br />
+
+[![SetupVideo](https://img.youtube.com/vi/FedrwJ8xW1Y/0.jpg)](https://www.youtube.com/watch?v=FedrwJ8xW1Y)
+<br />
+
+How To Change World 
+
+<br />
+
+[![WorldVideo](https://img.youtube.com/vi/oUp84ZIKB6I/0.jpg)](https://www.youtube.com/watch?v=oUp84ZIKB6I)
+<br />
 🔗Download Now : https://github.com/healer-op/MineSetup/releases <br />
 <br />
 <br />
 🔗Server.jar : https://yatopiamc.org/download.html <br />
 🔗Online Service : https://playit.gg/download <br />
 <br />
-📝To Do List<br />
-- [x] Yatopiamc api Added
-- [x] Skin Restorer Added
-- [x] EssentialX For Tp Tpa
-- [x] Video Tutorials
-- [ ] Linux Update
-- [ ] Mac Update
