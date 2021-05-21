@@ -2,7 +2,6 @@
 <br />
 🌴How To Setup <br />
 <br />
-![Windows](https://playit.gg/static/media/windows.a0718ca2.png) 
 Windows: <br />
 <br />
 1. Download Latest Package From : https://github.com/healer-op/MineSetup/releases <br />
@@ -21,7 +20,7 @@ Windows: <br />
 14. You can Give the ip to you friend and play. <br />
 15. Start The Repo For Faster Updates. <br />
 <br />
-![Windows](https://playit.gg/static/media/linux.cde544b2.png) Linux: </br >
+Linux: </br >
 <br />
 1. Soon <br>
 <br />
