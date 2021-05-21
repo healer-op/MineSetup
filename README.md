@@ -25,7 +25,7 @@
 <br />
 👩‍💻 Mac: </br >
 </br >
-1. Soon
+1.Go Here: https://github.com/healer-op/MineSetupMac
 </br >
 
 # Video Guides
